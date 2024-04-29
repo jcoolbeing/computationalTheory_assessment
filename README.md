@@ -7,9 +7,9 @@ Rules:<br>
   (Random) 6 numbers (1-10)x2 + 25, 50, 75, 100<br>
   (Random) 3 numbers 101->999<br>
 <br>
- Each number used 1x<br>
-  / only if result is a whole number<br>
-  - only if result is a positive number<br>
+Each number used 1x<br>
+/ only if result is a whole number<br>
+- only if result is a positive number<br>
 
 How to run:
 1. Clone the repo.
