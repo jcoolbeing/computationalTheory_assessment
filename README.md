@@ -3,13 +3,13 @@ This is the repo for my assessment in computational theory.
 
 Objective:
 The objective of this repo is to simulate and analyse the Numbers Round game from the Tv show.
-# Rules
-# (Random) 6 numbers (1-10)x2 + 25, 50, 75, 100
-# (Random) 3 numbers 101->999
+Rules:
+  (Random) 6 numbers (1-10)x2 + 25, 50, 75, 100
+  (Random) 3 numbers 101->999
 
-# Each number used 1x
-# / only if result is a whole number
-# - only if result is a positive number
+ Each number used 1x
+  / only if result is a whole number
+  - only if result is a positive number
 
 How to run:
 1. Clone the repo.
